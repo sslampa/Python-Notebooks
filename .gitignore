@@ -1,3 +1,4 @@
 NYC_Jobs.csv
-.gitignore.swp
-.gitignore~
+*~
+*.swp
+*.swo
